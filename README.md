@@ -4,6 +4,6 @@ This program is a program that tracks the extent to which students achieve the p
 
 ## Features
 
-*Automatically import all excel files in directory (.zip, .rar or xlsx)
-*Automatically Merge students by their id numbers
-*Convert mark grades to the numbers 
+* Automatically import all excel files in directory (.zip, .rar or xlsx)
+* Automatically Merge students by their id numbers
+* Convert mark grades to the numbers 
